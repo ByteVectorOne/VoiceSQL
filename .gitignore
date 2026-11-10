@@ -1,0 +1,17 @@
+# secrets
+.env
+*.key
+
+# local database (recreated automatically on first run)
+*.db
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
