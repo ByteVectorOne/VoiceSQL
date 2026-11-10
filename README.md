@@ -9,7 +9,7 @@ Built for the **Great Indian AI Internship Challenge** by Gnani.ai.
 
 ![Voice SQL](assets/thumbnail.png)
 
-**Demo video:** _add your LinkedIn / X post link here_
+**Demo video:** https://lnkd.in/p/d8xmaxqc
 
 ## How it works
 
